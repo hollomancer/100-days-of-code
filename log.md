@@ -9,4 +9,5 @@
 **Thoughts** I try to find the fastest and easiest way to do something, rather than the most aesthetically pleasing, emphasizing effectiveness over efficiency. 
 
 **Link(s) to work**
+
 1. [Hubot tr.im script](https://github.com/hollomancer/hubot-trim)
