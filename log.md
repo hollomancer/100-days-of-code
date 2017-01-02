@@ -17,3 +17,20 @@
 1. [Hubot tr.im script](https://github.com/hollomancer/hubot-trim)
 2. [Slack announcer w/ Airtable backend](https://github.com/OperationCode/town-crier)
 3. http://ben.straub.cc/2016/02/18/hubot-lessons-learned/
+
+### Day 2: January 2, 2017
+
+**Today's Progress**:
+
+* Looking at ways I can integrate https://github.com/OperationCode/town-crier with the API for Meetup Pro.
+
+**Thoughts**
+
+* The idea here, is that announcements for our local Meetups will go directly to the pertinent location channels in our Slack chat, as long as they're on the schedule.
+* I've wanted to map each of our Meetups to individual locations, as well as Slack channels and zipcodes. It looks like I'll need to create that lookup table sooner rather than later.
+* Stretch goal: As the event draws closer, announcement frequency will increase.
+
+**References**
+
+1. [Slack announcer w/ Airtable backend](https://github.com/OperationCode/town-crier)
+2. [Meetup API](https://www.meetup.com/meetup_api/)
