@@ -23,6 +23,7 @@
 **Today's Progress**:
 
 * Looking at ways I can integrate https://github.com/OperationCode/town-crier with the API for Meetup Pro.
+* Found an npm package to use, and started working on the lookup table.
 
 **Thoughts**
 
@@ -34,3 +35,4 @@
 
 1. [Slack announcer w/ Airtable backend](https://github.com/OperationCode/town-crier)
 2. [Meetup API](https://www.meetup.com/meetup_api/)
+3. [npm package for the Meetup API](https://www.npmjs.com/package/meetup-api)
