@@ -36,3 +36,14 @@
 1. [Slack announcer w/ Airtable backend](https://github.com/OperationCode/town-crier)
 2. [Meetup API](https://www.meetup.com/meetup_api/)
 3. [npm package for the Meetup API](https://www.npmjs.com/package/meetup-api)
+
+### Day 2: January 2, 2017
+
+**Today's Progress**:
+
+* Spending some time at Code for Boston tonight!
+* Getting back to the Meetup stuff.
+
+**Thoughts**:
+
+* I need to access a separate Airtable base in order to do this effectively.
